@@ -1,0 +1,15 @@
+{
+    "name": "Restaurant Application",
+    "short_name": "res",
+    "icons": [
+        { "src": "icons/launcher-icon-1x.png", "type": "image/png", "sizes": "48x48" },
+        { "src": "icons/launcher-icon-2x.png", "type": "image/png", "sizes": "96x96" },
+        { "src": "icons/launcher-icon-4x.png", "type": "image/png", "sizes": "192x192" },
+        { "src": "icons/launcher-icon-10x.png", "type": "image/png", "sizes": "512x512" }
+        
+      ],
+      "background_color": "#3367D6",
+      "display": "standalone",
+      "theme_color": "#3367D6"
+  }
+  
